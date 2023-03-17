@@ -1,0 +1,44 @@
+html {
+    font-family: "Montserrat", sans-serif;
+}
+
+header {
+    background-color: #ffffff;
+    margin: auto -16px;
+    padding: 16px 32px;
+    text-align: center;
+    
+  }
+
+h1 {
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    
+}
+
+h2 {
+    color:#ffffff;
+    background-color: rgb(0, 140, 255);
+    width: 50%;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+div {
+    display: inline-block;
+}
+section {
+    background: #ffffff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 240px;
+    margin: 16px;
+  }
+
+h3 {
+    color: #000000;
+    font-size: 1.1em;
+    margin-bottom: 6px;
+}
